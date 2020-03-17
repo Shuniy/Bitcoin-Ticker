@@ -5,7 +5,7 @@
 
 ### API Used : CoinAPI
 
-![Screenshot1](images/Screenshot1-Copy.png)
+![Screenshot1](images/Screenshot1 - Copy.png)
 
 ![Screenshot2](images/Screenshot2.png)
 
